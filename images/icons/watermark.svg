@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect x="8" y="6" width="32" height="36" rx="2" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="12" y="28" font-family="Arial" font-size="9" font-weight="bold" fill="#2563eb" opacity="0.3" transform="rotate(-25 24 24)">DRAFT</text>
+  <path d="M14 16h20M14 22h16M14 28h12" stroke="#2563eb" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+</svg>
